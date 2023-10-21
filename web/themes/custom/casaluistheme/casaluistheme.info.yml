@@ -1,0 +1,60 @@
+name: Casa Luis Theme
+type: theme
+description: 'This is a sub theme of Restaurant Zymphonies Theme for Casa Luis'
+core: 8.x
+version: '1.0.0'
+core_version_requirement: ^8 || ^9 || ^10
+# Defines the base theme
+base theme: restaurant_zymphonies_theme
+
+# Defines libraries group in which we can add CSS/JS.
+libraries:
+
+
+#Regions
+regions:
+
+  #Header
+  header: 'Header'
+  contact_email: 'Contact email'
+  user_menu: 'user menu'
+  primary_menu: 'Primary menu'
+  search: 'Search'
+
+  #Home Page
+  homepagemessage: 'Home page message'
+
+  topwidget_first: 'Top first widget'
+  topwidget_second: 'Top second widget'
+  topwidget_third: 'Top third widget'
+  topwidget_forth: 'Top forth widget'
+
+  #Global Region
+  highlighted: 'Highlighted'
+  page_title: 'Page title'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  sidebar_first: 'Left sidebar'
+  sidebar_second: 'Right sidebar'
+
+  #Parallax Widgets
+  services: 'Services'
+
+  #Bottom Widgets
+  bottom_first: 'Bottom first widget'
+  bottom_second: 'Bottom second widget'
+  bottom_third: 'Bottom third widget'
+  bottom_forth: 'Bottom forth widget'
+
+  #Clients Widgets
+  clients: 'Clients'
+
+  #Footer widgets
+  footer_first: 'Footer first widget'
+  footer_second: 'Footer second widget'
+  footer_third: 'Footer third widget'
+
+  #Address
+  google_map: 'Google map'
+
+  auto_hidden_block: 'Auto hidden blocks'
