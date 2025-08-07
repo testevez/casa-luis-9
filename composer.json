@@ -17,10 +17,12 @@
     "require": {
         "composer/installers": "^2.0",
         "cweagans/composer-patches": "^1.7",
+        "drupal/admin_toolbar": "^3.6",
         "drupal/core-composer-scaffold": "9.5.11",
         "drupal/core-project-message": "9.5.11",
         "drupal/core-recommended": "9.5.11",
         "drupal/ctools": "^4.0",
+        "drupal/devel": "^5.1",
         "drupal/pathauto": "^1.12",
         "drupal/restaurant_zymphonies_theme": "^2.0",
         "drupal/taxonomy_menu": "^3.6",

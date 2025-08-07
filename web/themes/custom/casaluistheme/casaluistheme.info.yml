@@ -9,7 +9,7 @@ base theme: restaurant_zymphonies_theme
 
 # Defines libraries group in which we can add CSS/JS.
 libraries:
-
+  - casaluistheme/custom
 
 #Regions
 regions:
